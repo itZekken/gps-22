@@ -2,9 +2,6 @@
 import unittest
 import transform
 
-
-"""Tests"""
-
 class TestStringMethods(unittest.TestCase):
     """Test transformacio de strings."""
 
