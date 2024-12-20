@@ -2,6 +2,10 @@ import unittest
 import transform
 
 
+"""This module contains test cases for string transformation functions
+from the transform module, such as to_upper_case, to_lower_case, and 
+to_capitalize. These functions are tested to ensure they behave as expected."""
+
 class TestStringMethods(unittest.TestCase):
     """Test cases for string transformation functions in the transform module."""
 
